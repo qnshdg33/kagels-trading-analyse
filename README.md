@@ -1,0 +1,1 @@
+# kagels-trading-analyse
